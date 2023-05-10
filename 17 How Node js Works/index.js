@@ -1,8 +1,8 @@
 console.log("Starting up");
 
 setTimeout(() => {
-    console.log("2 sec log");
-}, 2000);
+    console.log("4 sec log");
+}, 4000);
 
 setTimeout(() => {
     console.log("0 sec log");
